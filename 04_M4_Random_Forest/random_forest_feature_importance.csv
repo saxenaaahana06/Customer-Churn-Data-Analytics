@@ -1,0 +1,47 @@
+feature,importance,original_column
+Contract_Month-to-month,0.248135,Contract
+tenure,0.115613,tenure
+OnlineSecurity_No,0.106721,OnlineSecurity
+TechSupport_No,0.074951,TechSupport
+TotalCharges,0.073293,TotalCharges
+Contract_Two year,0.071404,Contract
+InternetService_Fiber optic,0.059654,InternetService
+MonthlyCharges,0.052472,MonthlyCharges
+PaymentMethod_Electronic check,0.025708,PaymentMethod
+Contract_One year,0.024943,Contract
+InternetService_DSL,0.019134,InternetService
+OnlineBackup_No,0.011251,OnlineBackup
+OnlineSecurity_Yes,0.008508,OnlineSecurity
+OnlineSecurity_No internet service,0.008408,OnlineSecurity
+TechSupport_Yes,0.007296,TechSupport
+StreamingMovies_Yes,0.006423,StreamingMovies
+OnlineBackup_No internet service,0.005533,OnlineBackup
+StreamingMovies_No internet service,0.005491,StreamingMovies
+PaperlessBilling_No,0.004973,PaperlessBilling
+DeviceProtection_No internet service,0.004542,DeviceProtection
+PaperlessBilling_Yes,0.004208,PaperlessBilling
+StreamingTV_Yes,0.004071,StreamingTV
+TechSupport_No internet service,0.003674,TechSupport
+StreamingTV_No internet service,0.003522,StreamingTV
+StreamingMovies_No,0.003156,StreamingMovies
+DeviceProtection_No,0.003143,DeviceProtection
+InternetService_No,0.003102,InternetService
+OnlineBackup_Yes,0.003004,OnlineBackup
+gender_Male,0.002824,gender
+StreamingTV_No,0.002695,StreamingTV
+PaymentMethod_Bank transfer (automatic),0.002641,PaymentMethod
+Dependents_Yes,0.00259,Dependents
+MultipleLines_No,0.002561,MultipleLines
+PaymentMethod_Credit card (automatic),0.00252,PaymentMethod
+MultipleLines_Yes,0.002446,MultipleLines
+gender_Female,0.002318,gender
+PaymentMethod_Mailed check,0.002236,PaymentMethod
+Dependents_No,0.00214,Dependents
+SeniorCitizen_Yes,0.002087,SeniorCitizen
+SeniorCitizen_No,0.002057,SeniorCitizen
+Partner_Yes,0.001896,Partner
+Partner_No,0.001732,Partner
+MultipleLines_No phone service,0.001486,MultipleLines
+PhoneService_Yes,0.001389,PhoneService
+DeviceProtection_Yes,0.001052,DeviceProtection
+PhoneService_No,0.000997,PhoneService

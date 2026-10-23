@@ -1,0 +1,30 @@
+customer-churn-prediction/
+│
+├── data/
+│   ├── raw/
+│   │   └── Telco-Customer-Churn.csv
+│   └── processed/
+│       └── telco_processed.csv
+│
+├── notebooks/
+│   ├── 01_preprocessing.ipynb
+│   ├── 02_eda.ipynb
+│   ├── 03_logistic_regression.ipynb
+│   ├── 04_random_forest.ipynb
+│   ├── 05_xgboost.ipynb
+│   └── 06_model_comparison.ipynb
+│
+├── models/
+│   ├── logistic_regression.pkl
+│   ├── random_forest.pkl
+│   └── xgboost.pkl
+│
+├── app/
+│   └── app.py
+│
+├── reports/
+│   └── figures/
+│
+├── requirements.txt
+│
+└── README.md
